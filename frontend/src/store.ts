@@ -1,6 +1,6 @@
 import { create } from "zustand";
 import { persist } from "zustand/middleware";
-import { User } from "./lib/types";
+import { User } from "./lib/types.ts";
 
 // Define Auth State & Actions
 interface AuthState {
