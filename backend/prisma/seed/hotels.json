@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Grand Palace Hotel",
+    "description": "Luxury hotel with a sea view and world-class facilities.",
+    "address": "123 Ocean Drive",
+    "city": "Miami",
+    "country": "USA",
+    "stars": 5,
+    "pricePerNight": 299.99,
+    "image": "https://picsum.photos/seed/hotel1/500/300"
+  },
+  {
+    "name": "Skyline Inn",
+    "description": "A modern hotel in the heart of New York with stunning skyline views.",
+    "address": "456 Manhattan Ave",
+    "city": "New York",
+    "country": "USA",
+    "stars": 4,
+    "pricePerNight": 199.99,
+    "image": "https://picsum.photos/seed/hotel2/500/300"
+  },
+  {
+    "name": "Mountain Retreat",
+    "description": "Cozy cabins in the Rocky Mountains with breathtaking scenery.",
+    "address": "789 Alpine Road",
+    "city": "Denver",
+    "country": "USA",
+    "stars": 3,
+    "pricePerNight": 149.99,
+    "image": "https://picsum.photos/seed/hotel3/500/300"
+  },
+  {
+    "name": "Parisian Elegance",
+    "description": "A charming boutique hotel in the heart of Paris.",
+    "address": "321 Champs-Élysées",
+    "city": "Paris",
+    "country": "France",
+    "stars": 5,
+    "pricePerNight": 349.99,
+    "image": "https://picsum.photos/seed/hotel4/500/300"
+  },
+  {
+    "name": "Tokyo Zen Hotel",
+    "description": "A peaceful retreat in the bustling city of Tokyo.",
+    "address": "987 Shibuya St",
+    "city": "Tokyo",
+    "country": "Japan",
+    "stars": 4,
+    "pricePerNight": 179.99,
+    "image": "https://picsum.photos/seed/hotel5/500/300"
+  },
+  {
+    "name": "Desert Mirage Resort",
+    "description": "A stunning desert resort with luxurious accommodations.",
+    "address": "654 Oasis Blvd",
+    "city": "Dubai",
+    "country": "UAE",
+    "stars": 5,
+    "pricePerNight": 399.99,
+    "image": "https://picsum.photos/seed/hotel6/500/300"
+  },
+  {
+    "name": "Lakeside Haven",
+    "description": "A beautiful hotel by the serene lakes of Switzerland.",
+    "address": "147 Lakeview Drive",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "stars": 5,
+    "pricePerNight": 279.99,
+    "image": "https://picsum.photos/seed/hotel7/500/300"
+  },
+  {
+    "name": "Rio Carnival Suites",
+    "description": "Experience the vibrant culture of Rio in our lively suites.",
+    "address": "258 Copacabana Beach",
+    "city": "Rio de Janeiro",
+    "country": "Brazil",
+    "stars": 4,
+    "pricePerNight": 189.99,
+    "image": "https://picsum.photos/seed/hotel8/500/300"
+  },
+  {
+    "name": "Sydney Harbor View",
+    "description": "A premium hotel offering a spectacular view of the Sydney Opera House.",
+    "address": "369 Harbour Bridge Road",
+    "city": "Sydney",
+    "country": "Australia",
+    "stars": 5,
+    "pricePerNight": 329.99,
+    "image": "https://picsum.photos/seed/hotel9/500/300"
+  },
+  {
+    "name": "The London Crown",
+    "description": "Stay in the heart of London with royal treatment.",
+    "address": "753 Buckingham St",
+    "city": "London",
+    "country": "UK",
+    "stars": 5,
+    "pricePerNight": 259.99,
+    "image": "https://picsum.photos/seed/hotel10/500/300"
+  },
+  {
+    "name": "Berlin Art Loft",
+    "description": "A stylish hotel for art lovers in Berlin’s creative district.",
+    "address": "852 Alexanderplatz",
+    "city": "Berlin",
+    "country": "Germany",
+    "stars": 4,
+    "pricePerNight": 209.99,
+    "image": "https://picsum.photos/seed/hotel11/500/300"
+  },
+  {
+    "name": "Cape Town Breeze",
+    "description": "Relax in this beachside hotel with breathtaking ocean views.",
+    "address": "369 Beach Road",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "stars": 4,
+    "pricePerNight": 219.99,
+    "image": "https://picsum.photos/seed/hotel12/500/300"
+  }
+]
